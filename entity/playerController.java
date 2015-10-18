@@ -1,8 +1,8 @@
+package entity;
 import net.slashie.libjcsi.CharKey;
 import net.slashie.libjcsi.ConsoleSystemInterface;
 import net.slashie.libjcsi.CSIColor;
 import net.slashie.libjcsi.textcomponents.*;
-import entity.entity;
 
 //This is a special entity controller specifically for player entities. Here we will have a bunch of methods for actions the player can take.
 public class playerController extends entityController{
