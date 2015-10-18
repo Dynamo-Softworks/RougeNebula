@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path=""/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/libjcsi/distro/libjcsi_resources.jar"/>
-	<classpathentry kind="lib" path="/libjcsi/distro/libjcsi.jar"/>
+	<classpathentry kind="lib" path="/libjcsi/distro/libjcsi.jar" sourcepath="/libjcsi/distro/usage_examples"/>
 	<classpathentry kind="lib" path="/libjcsi/distro/sLibcsi.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
