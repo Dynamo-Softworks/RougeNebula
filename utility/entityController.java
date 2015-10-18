@@ -1,16 +1,17 @@
-package entity;
+package utility;
+import entity.living.livingEntity;
 import net.slashie.libjcsi.CharKey;
 import net.slashie.libjcsi.wswing.WSwingConsoleInterface;
 import net.slashie.libjcsi.ConsoleSystemInterface;
 
 public class entityController{
 	
-	entity puppet;
+	livingEntity puppet;
 
 	
 	
 	
-	public entityController(entity tempPuppet){
+	public entityController(livingEntity tempPuppet){
 		puppet=tempPuppet;
 		
 	}
